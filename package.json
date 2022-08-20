@@ -1,23 +1,23 @@
 {
-  "name": "Your plugin name here",
-  "author": "Your author here",
-  "version": "Your semver version here e.g. 1.0.0",
-  "description": "Your plugin description here",
+  "name": "leapp-shellcreds",
+  "author": "Taimos GmbH",
+  "version": "0.0.1",
+  "description": "Plugin to copy AWS credentials in a shell compatible format",
   "keywords": [
-    "leapp-plugin",
-    "Add other tags here..."
+    "leapp-plugin"
   ],
   "leappPlugin": {
     "supportedOS": [
-      "mac", "windows", "linux"
+      "mac",
+      "windows",
+      "linux"
     ],
     "supportedSessions": [
       "awsIamRoleFederated",
       "awsIamRoleChained",
       "awsSsoRole",
       "awsIamUser",
-      "aws",
-      "azure"
+      "aws"
     ]
   },
   "scripts": {
@@ -26,9 +26,10 @@
   "files": [
     "plugin.js"
   ],
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
-    "@noovolari/leapp-core": "^0.1.117"
+    "@noovolari/leapp-core": "^0.1.117",
+    "clipboardy": "^3.0.0"
   },
   "devDependencies": {
     "path-browserify": "^1.0.1",

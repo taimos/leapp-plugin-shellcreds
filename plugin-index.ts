@@ -1,1 +1,1 @@
-export { ExamplePlugin } from "./example-plugin";
+export { ShellCredentialsPlugin } from './shellcreds';
