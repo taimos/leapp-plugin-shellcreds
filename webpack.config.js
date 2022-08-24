@@ -2,7 +2,7 @@ const path = require('path');
 
 module.exports = {
   mode: 'none',
-  entry: './plugin-index.ts',
+  entry: './src/index.ts',
   output: {
     path: path.resolve(__dirname),
     filename: 'plugin.js',
