@@ -26,6 +26,7 @@
   "author": {
     "name": "Taimos GmbH",
     "email": "info@taimos.de",
+    "url": "https://taimos.de",
     "organization": true
   },
   "devDependencies": {
