@@ -51,3 +51,4 @@ junit.xml
 /dist/
 !/.eslintrc.json
 plugin.js
+!/webpack.config.js
