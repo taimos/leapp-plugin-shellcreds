@@ -781,9 +781,9 @@
     defer-to-connect "^2.0.1"
 
 "@taimos/projen-leapp-plugin@^0.0.4":
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/@taimos/projen-leapp-plugin/-/projen-leapp-plugin-0.0.3.tgz#16e8e6986d0600c5642003034b9400c606db15a2"
-  integrity sha512-FMrWUONqRE7qPyu/kDW/OKWn9X2pCPoXgBCVSCcmQYG5gAm3Rntm9GRB2SY//g5YztEIR9tx+0mZTR56WXjzfQ==
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/@taimos/projen-leapp-plugin/-/projen-leapp-plugin-0.0.4.tgz#358b7bf03d2f47ea47ffb35e0ccc2b4f675a3265"
+  integrity sha512-uWIYu4dZ87OobqncKETvAal5kJ/eJwA/hvREp8hwcYzcB4FNoSke/YgQKcJDXCjUPv0yCTrTutTklrApuAbHmw==
 
 "@tootallnate/once@2":
   version "2.0.0"
