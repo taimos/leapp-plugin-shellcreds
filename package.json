@@ -30,7 +30,7 @@
     "organization": true
   },
   "devDependencies": {
-    "@taimos/projen-leapp-plugin": "^0.0.17",
+    "@taimos/projen-leapp-plugin": "^0.0.18",
     "@types/jest": "^28.1.8",
     "@types/node": "^14",
     "@typescript-eslint/eslint-plugin": "^5",
@@ -43,7 +43,7 @@
     "jest-junit": "^13",
     "json-schema": "^0.4.0",
     "npm-check-updates": "^15",
-    "projen": "^0.62.3",
+    "projen": "^0.62.5",
     "standard-version": "^9",
     "ts-jest": "^28.0.8",
     "ts-loader": "^9.3.1",
