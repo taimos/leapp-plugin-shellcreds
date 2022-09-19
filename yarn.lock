@@ -785,10 +785,10 @@
   dependencies:
     defer-to-connect "^2.0.1"
 
-"@taimos/projen-leapp-plugin@^0.0.22":
-  version "0.0.22"
-  resolved "https://registry.yarnpkg.com/@taimos/projen-leapp-plugin/-/projen-leapp-plugin-0.0.22.tgz#788e489fed8c9daf235ac7178c4c7eeea75e1ce3"
-  integrity sha512-ss91NkDP/AZYVV+iixh2/EbuaITTa7WoNu1Ft0eA6T8vRy/nOdC0sD4pNlwr8MHiOkZopJ9pAFNoOLMOCoHqbw==
+"@taimos/projen-leapp-plugin@^0.0.25":
+  version "0.0.25"
+  resolved "https://registry.yarnpkg.com/@taimos/projen-leapp-plugin/-/projen-leapp-plugin-0.0.25.tgz#f50ae6d8f12333e77ae24ff1106ea472329c195f"
+  integrity sha512-77/7M6QIkWiZ7tY/Tuv+f6UP7cVNYKnJOoIAPqe/MsKKScFapcvpyI5ro9O1XCbgUh4SUrRzybZymM3HsY87DA==
 
 "@tootallnate/once@2":
   version "2.0.0"
