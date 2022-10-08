@@ -16,7 +16,6 @@
     "pre-compile": "npx projen pre-compile",
     "release": "npx projen release",
     "test": "npx projen test",
-    "test:update": "npx projen test:update",
     "test:watch": "npx projen test:watch",
     "unbump": "npx projen unbump",
     "upgrade": "npx projen upgrade",
@@ -43,7 +42,7 @@
     "jest-junit": "^13",
     "json-schema": "^0.4.0",
     "npm-check-updates": "^15",
-    "projen": "^0.62.25",
+    "projen": "^0.63.10",
     "standard-version": "^9",
     "ts-jest": "^28.0.8",
     "ts-loader": "^9.4.1",
@@ -52,7 +51,7 @@
     "webpack-cli": "^4.10.0"
   },
   "dependencies": {
-    "@noovolari/leapp-core": "^0.1.122",
+    "@noovolari/leapp-core": "^0.1.124",
     "clipboardy": "^3.0.0"
   },
   "keywords": [
